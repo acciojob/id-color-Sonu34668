@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+.paragraph-1{
+	background-color: yellow;
+	border : solid green;
+	border-width: 1px;
+}
+.paragraph-2{
+	background-color: red;
+	border: solid black;
+	border-width: 1px;
+}
+.paragraph-3{
+	background-color: green;
+	border: solid yellow;
+	border-width: 1px;
+}
+
